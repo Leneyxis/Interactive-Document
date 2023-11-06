@@ -1,7 +1,8 @@
-```markdown
-# PDF Document Indexer and Query
+# Interactive Document
 
-This Python script is designed to extract and index information from PDF documents, and then query the indexed data using the OpenAI GPT-3 model. It saves the index in a JSON file to save on API calls, thus optimizing costs.
+This simple Python script is designed to extract and index information from PDF(resumes in this case) documents, and then query the indexed data using the OpenAI GPT-3 model.
+
+```markdown
 
 ## Getting Started
 
